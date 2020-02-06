@@ -1,0 +1,24 @@
+git log
+commit fad4844b55c6a850707c47bb0bfaefc714cf6638
+Author: 06smile <06smile@gmail.com>
+Date:   Thu Jan 30 23:13:55 2020 -0500
+
+    added gitignore
+
+commit 07fc84136b908c4f0f200893e333401a828c5937
+Author: 06smile <06smile@gmail.com>
+Date:   Sat Jan 25 00:02:08 2020 -0500
+
+    added gitignore
+
+commit 58b46a20492d3cfbb88623ec38868e7cfb9abc92
+Author: 06smile <06smile@gmail.com>
+Date:   Mon Jan 13 23:14:31 2020 -0500
+
+    added readme.txt
+
+commit c736d90b87b079e37731553b70d99e9d51bdd558
+Author: 06smile <06smile@gmail.com>
+Date:   Thu Dec 19 22:30:12 2019 -0500
+
+    added
